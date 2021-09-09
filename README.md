@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/IgorCarvalho14">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCarvalho14&show_icons=truek&include_all_commits=true&count_private=true&theme=ayu-mirage&hide_border=true&border_radius"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCarvalho14&show_icons=truek&include_all_commits=true&count_private=true&theme=ayu-mirage&hide_border=true&border_radius=0"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCarvalho14&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=0"/>
 </div> 
  
