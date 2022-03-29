@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats-igorcarvalho14.vercel.app/api/top-langs/?username=IgorCarvalho14&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=0&langs_count=10"/>
 </div> 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Igor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
