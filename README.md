@@ -6,10 +6,15 @@ I study computer science at the Federal University of Amazonas (UFAM). I like ba
 * ✉️  You can contact me at [igorcarvalhodasilva012@gmail.com](mailto:igorcarvalhodasilva012@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://github.com/IgorCarvalho14"><img src="https://github-readme-stats-igorcarvalho14.vercel.app/api/top-langs/?username=IgorCarvalho14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/IgorCarvalho14"><img src="https://github-readme-stats-igorcarvalho14.vercel.app/api/top-langs/?username=IgorCarvalho14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" width="320px"/></a>
 
-<a href="http://www.github.com/IgorCarvalho14"><img src="https://github-readme-stats-igorcarvalho14.vercel.app/api?username=IgorCarvalho14&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IgorCarvalho14's GitHub stats" /></a>
-<a href="http://www.github.com/IgorCarvalho14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorCarvalho14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+&nbsp;
+
+<a href="http://www.github.com/IgorCarvalho14"><img src="https://github-readme-stats-igorcarvalho14.vercel.app/api?username=IgorCarvalho14&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IgorCarvalho14's GitHub stats" width="550px" /></a>
+
+<a href="http://www.github.com/IgorCarvalho14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorCarvalho14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="550px"/></a>
+
+&nbsp;
 
 <a href="http://www.github.com/IgorCarvalho14"><img src="https://activity-graph.herokuapp.com/graph?username=IgorCarvalho14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
