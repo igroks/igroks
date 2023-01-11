@@ -1,8 +1,8 @@
 Hi there 👋
 ==============================
-I study computer science at the Federal University of Amazonas (UFAM). I like backend development and currently my interest is in the information retrieval area.
 
 * 🌍  I'm based in Manaus, Amazonas
+* 💻 I study computer science at the Federal University of Amazonas (UFAM)
 * ✉️  You can contact me at [igorcarvalhodasilva012@gmail.com](mailto:igorcarvalhodasilva012@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
