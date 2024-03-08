@@ -2,7 +2,7 @@ Hi there 👋
 ==============================
 
 * 🌍  I'm based in Manaus, Amazonas
-* 💻 I study computer science at the Federal University of Amazonas (UFAM)
+* 💻 I have a degree in computer science from the Federal University of Amazonas (UFAM)
 * ✉️  You can contact me at [igorcarvalhodasilva012@gmail.com](mailto:igorcarvalhodasilva012@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
