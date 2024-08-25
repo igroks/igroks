@@ -6,7 +6,7 @@ Hi there 👋
 * ✉️  You can contact me at [igorcarvalhodasilva012@gmail.com](mailto:igorcarvalhodasilva012@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://github.com/igroks"><img src="https://github-readme-stats-igorcarvalho.vercel.app/api/top-langs/?username=igroks&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" width="320px"/></a>
+<a href="https://github.com/igroks"><img src="https://github-readme-stats-igorcarvalho.vercel.app/api/top-langs/?username=igroks&hide=css,sass,handlebars,scss,jupyter%20notebook,makefile,dockerfile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" width="320px"/></a>
 
 &nbsp;
 
